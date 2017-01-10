@@ -8,7 +8,8 @@ The project is to apply deep learning techniques to classify the Pinterest image
 To check dnn, you can find from here [dnn ipython notebook](dnn_abyellow.ipynb)
 
 You can check report here:[report](report.pdf)
-You can check presentation here:[presentation](presentation.pdf)
+
+You can also check presentation here:[presentation](presentation.pdf)
 
 
 
