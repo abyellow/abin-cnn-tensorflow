@@ -6,3 +6,10 @@ The project is to apply deep learning techniques to classify the Pinterest image
 
 
 To check dnn, you can find from here [dnn ipython notebook](dnn_abyellow.ipynb)
+
+
+
+[embed]report.pdf[/embed]
+
+
+
